@@ -2,7 +2,7 @@
   "name": "proyecto-prueba",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zaca343.github.io/proyecto-prueba/",
+  "homepage": "http://zaca343.github.io/proyecto-prueba/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
