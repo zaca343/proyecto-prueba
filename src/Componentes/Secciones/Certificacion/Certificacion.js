@@ -1,16 +1,31 @@
-import React from 'react'
-import '../Certificacion/certificacion.css'
+import React from "react";
+import "../Certificacion/certificacion.css";
+const assets = require.context(
+    "../../../../public/assets", true
+);
 
 const Certificacion = () => {
     return (
         <section>
-            <div className='container-certificacion'>
+            <div className="container-certificacion">
                 <div>
-                    <h3 className='titulo-certificacion'>Certificación</h3>
+                    <h3 className="titulo-certificacion">Certificación</h3>
                 </div>
-                <div className='container-certificacion-imagenes'> 
-                <img src='/assets/certificacion/iram.png' alt='iram' className='img-certificacion' id='img-iram'/>
-                <img src='/assets/certificacion/senasa2.png' alt='senasa' className='img-certificacion' />
+                <div className="container-certificacion-imagenes">
+                    <img
+                        //src="/assets/certificacion/iram.png"
+                        src={assets(`./certificacion/iram.png`)}
+
+                        alt="iram"
+                        className="img-certificacion"
+                        id="img-iram"
+                    />
+                    <img
+                        //src="/assets/certificacion/senasa2.png
+                        src={assets(`./certificacion/senasa2.png`)}
+                        alt="senasa"
+                        className="img-certificacion"
+                    />
                 </div>
             </div>
         </section>
