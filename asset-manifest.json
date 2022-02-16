@@ -1,19 +1,26 @@
 {
   "files": {
     "main.css": "/proyecto-prueba/static/css/main.d7dcd9e5.css",
-    "main.js": "/proyecto-prueba/static/js/main.7e65b01d.js",
+    "main.js": "/proyecto-prueba/static/js/main.8a83ad49.js",
     "static/js/787.75b94f2b.chunk.js": "/proyecto-prueba/static/js/787.75b94f2b.chunk.js",
+    "static/media/bentonita.jpg": "/proyecto-prueba/static/media/bentonita.131eda7747c9cf4cded0.jpg",
     "static/media/yacimiento.jpeg": "/proyecto-prueba/static/media/yacimiento.53b40bc46ffde865b799.jpeg",
     "static/media/senasa2.png": "/proyecto-prueba/static/media/senasa2.6766374cdacb2a5a0753.png",
     "static/media/senasa.png": "/proyecto-prueba/static/media/senasa.2f41843a0b95cd80a70d.png",
+    "static/media/propiedad3.png": "/proyecto-prueba/static/media/propiedad3.076bb157428b96cab31e.png",
+    "static/media/piedraAglomerante2.png": "/proyecto-prueba/static/media/piedraAglomerante2.72ee53572cad8767e8dd.png",
     "static/media/iram.png": "/proyecto-prueba/static/media/iram.a011998b775a7bd6fb89.png",
+    "static/media/purificacion.png": "/proyecto-prueba/static/media/purificacion.50856bc29d656d9d4811.png",
+    "static/media/alimentoMascotas.png": "/proyecto-prueba/static/media/alimentoMascotas.943d1674b04ba77215b7.png",
+    "static/media/construccion.png": "/proyecto-prueba/static/media/construccion.75d0f6d561d01e037157.png",
+    "static/media/makeup.png": "/proyecto-prueba/static/media/makeup.e20b12e5c29817a3b511.png",
     "index.html": "/proyecto-prueba/index.html",
     "main.d7dcd9e5.css.map": "/proyecto-prueba/static/css/main.d7dcd9e5.css.map",
-    "main.7e65b01d.js.map": "/proyecto-prueba/static/js/main.7e65b01d.js.map",
+    "main.8a83ad49.js.map": "/proyecto-prueba/static/js/main.8a83ad49.js.map",
     "787.75b94f2b.chunk.js.map": "/proyecto-prueba/static/js/787.75b94f2b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7dcd9e5.css",
-    "static/js/main.7e65b01d.js"
+    "static/js/main.8a83ad49.js"
   ]
 }
