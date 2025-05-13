@@ -2,7 +2,6 @@
   "name": "proyecto-prueba",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://zaca343.github.io/proyecto-prueba/",
   "dependencies": {
     "@emailjs/browser": "^3.4.0",
     "@emotion/react": "^11.7.1",
